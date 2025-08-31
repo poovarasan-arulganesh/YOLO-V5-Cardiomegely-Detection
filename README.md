@@ -1,6 +1,5 @@
 Using YOLOv7 Architecture for X-ray Object Detection
 ==============================
-This is a submission of the **Term Project** for the **CIS735** course.
 
 It contains the code necessary to implement the YOLOv7 algorithm for disease detection on X-ray screening images.
 
